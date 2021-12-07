@@ -9,5 +9,6 @@ namespace mvc.Models
         public int score {get; set;}
         public int done {get; set;}
         public double rate {get; set;}
+        public int upvote {get; set;}
     }
 }

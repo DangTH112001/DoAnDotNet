@@ -10,6 +10,6 @@ namespace mvc.Models
         public string C {get; set;}
         public string D {get; set;}
         public string answer {get; set;}
-        public int mcid {get; set;}
+        public int uid {get; set;}
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\DangT\\Desktop\\Code\\mvc\\mvc.csproj": {}
+    "C:\\Users\\DangT\\Desktop\\Code\\mvc\\mvc.csproj": {}
   },
   "projects": {
-    "c:\\Users\\DangT\\Desktop\\Code\\mvc\\mvc.csproj": {
+    "C:\\Users\\DangT\\Desktop\\Code\\mvc\\mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\DangT\\Desktop\\Code\\mvc\\mvc.csproj",
+        "projectUniqueName": "C:\\Users\\DangT\\Desktop\\Code\\mvc\\mvc.csproj",
         "projectName": "mvc",
-        "projectPath": "c:\\Users\\DangT\\Desktop\\Code\\mvc\\mvc.csproj",
+        "projectPath": "C:\\Users\\DangT\\Desktop\\Code\\mvc\\mvc.csproj",
         "packagesPath": "C:\\Users\\DangT\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\DangT\\Desktop\\Code\\mvc\\obj\\",
+        "outputPath": "C:\\Users\\DangT\\Desktop\\Code\\mvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DangT\\AppData\\Roaming\\NuGet\\NuGet.Config"
